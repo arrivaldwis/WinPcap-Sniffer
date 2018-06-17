@@ -3,15 +3,12 @@
 Project 3 - Experiment Computer Networks
 
 ## Environment
--------------
 Windows 10
 
 ## Development
--------------
 Visual Studio 2017
 
 ## Features
-----------
 * sniff all the data in a LAN
 * details of the data will be given
 * can be filtered by ip, port and protocol both in source and target side 
